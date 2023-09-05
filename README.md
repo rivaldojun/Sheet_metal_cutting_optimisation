@@ -14,8 +14,10 @@ Ce projet est un site web développé pour optimiser la découpe de tôle en fon
 ## Exemple d'utilisation
 
 Voici comment utiliser notre site web d'optimisation de découpe de tôle :
+## Parametre
 ![Capture d’écran (17)](https://github.com/rivaldojun/Sheet_metal_cutting_optimisation/assets/104903354/71bb9a87-b645-47d1-adc7-419ee9690ca1)
-
+## Resultats
+![Capture d’écran (21)](https://github.com/rivaldojun/Sheet_metal_cutting_optimisation/assets/104903354/08f050d8-6ffc-4416-829e-4c9a26ee86a0)
 
 1. Clonez ce dépôt sur votre machine locale :
    ```shell
